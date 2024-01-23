@@ -31,3 +31,9 @@ console.log() è nostro amico.
 Buon lavoro!
 
 ### Svolgimento
+
+- per ogni oggetto contenuto nell'array "team"
+  - stampo in console gli argomenti dell'oggetto
+  - creo una costante collegata al DOM
+  - modifico l'innerHTML della costante creando una struttura in cui inserire immagine, nome e ruolo
+  - stampo la card sul DOM
