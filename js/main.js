@@ -4,7 +4,7 @@ for (let i = 0; i < team.length; i++) {
   console.log(team[i].name, team[i].role, team[i].image);
 
   let resultHtml = ` 
-  <div class="col-4">
+  <div class="col">
     <div class="card border-0">
         <img src="./img/${team[i].image}" alt="" />
         <h2 class="fs-4 my-3">${team[i].name}</h2>
