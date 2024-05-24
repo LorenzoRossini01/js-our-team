@@ -37,3 +37,5 @@ Buon lavoro!
   - creo una costante collegata al DOM
   - modifico l'innerHTML della costante creando una struttura in cui inserire immagine, nome e ruolo
   - stampo la card sul DOM
+## Link Preview
+https://lorenzorossini01.github.io/js-our-team/
